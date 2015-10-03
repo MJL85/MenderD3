@@ -1,3 +1,7 @@
+# Quake 3 MD3 Model Viewer
+
+![screenshot](./screenshot.jpg)
+
 To move the camera:
 	Left click in the viewing area and drag the mouse.
 	The camera position is located in the lower left hand corner.

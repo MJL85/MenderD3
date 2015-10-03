@@ -1,0 +1,60 @@
+
+[filenumbers]
+0=70
+1=66
+2=370
+3=93
+4=56
+5=81
+6=29
+7=238
+8=56
+9=54
+10=29
+11=732
+12=75
+13=46
+
+[filemarkers]
+0=
+1=
+2=
+3=
+4=
+5=
+6=
+7=
+8=
+9=
+10=
+11=
+12=
+13=
+
+[File View]
+filter.file.unmatch=*.so *.o *.a *.la
+filter.file.ignore.hidden=0
+filter.dir.ignore.hidden=0
+
+[executer]
+RunInTerminal=true
+
+[Project State]
+clean before build=false
+
+[filelist]
+0=/home/para/Projects/qtmd3/src/accum.c
+1=/home/para/Projects/qtmd3/include/gl_widget.h
+2=/home/para/Projects/qtmd3/src/gl_widget.cpp
+3=/home/para/Projects/qtmd3/include/world.h
+4=/home/para/Projects/qtmd3/src/world.c
+5=/home/para/Projects/qtmd3/src/render.c
+6=/home/para/Projects/qtmd3/include/render.h
+
+[Project Tree]
+0=0
+1=0:0
+2=0:1
+
+[File Tree]
+0=0

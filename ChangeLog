@@ -1,0 +1,33 @@
+MD3 View
+
+------------------------------
+
+A * entry was completed on that day
+A . entry is pending implementation
+A - entry was worked on but not completed on that day
+A + entry was resumed and completed from a previous day
+A ! entry was decided against on that day
+
+------------------------------
+
+TODO:
+
+	. Qt GUI layout
+	. opengl renderer
+	. load textures
+	. get multipule md3's loaded (head, torso, legs)
+
+------------------------------
+
+WORK LOG:
+
+28 Feb 2006
+	* [M] Changed MD3 parser to use arrays for certain texture attributes rather than lists
+
+26 Feb 2006
+	* [M] MD3 file parser
+	* [M] Split project into files
+	* [M] Removed memory leaks pertaining to parser
+
+16 Feb 2006
+	+ [M] MD3 file parser
